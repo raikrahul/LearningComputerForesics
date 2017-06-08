@@ -1,0 +1,18 @@
+1 - MBR - 0x55AA Marks the end of MBR?
+What does it mean to mark the end of an MBR?
+How to see what is an end?
+Where is it marked?
+https://stackoverflow.com/questions/11075003/why-55-aa-is-used-as-the-boot-signature-on-ibm-pcs
+
+How to see the disk signature at ox1B8
+How do 16 bytes decribe cylinder head sector ? How to see?
+How to see the active flag to see if a partition is active for booting?
+What it means to be active for booting?
+Loading copy of the boot sector? what it means?
+What it means to say - rest of the sectors will never be used?
+
+
+How to see in linux if first or second partition is bootable 
+
+
+What it means when someone says, optional boot block?
